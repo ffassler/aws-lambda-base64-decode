@@ -1,4 +1,4 @@
-package awslambdabase64decode
+package main
 
 import (
 	"encoding/base64"
